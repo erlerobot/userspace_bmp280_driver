@@ -1,4 +1,3 @@
-userspace_bmp250_driver
+BMP280 userspace driver
 =======================
 
-BMP250 userspace driver
